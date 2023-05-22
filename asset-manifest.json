@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mycv-pro/static/css/main.1bcb5c0e.chunk.css",
+    "main.js": "/mycv-pro/static/js/main.1eb9cd34.chunk.js",
+    "main.js.map": "/mycv-pro/static/js/main.1eb9cd34.chunk.js.map",
+    "runtime~main.js": "/mycv-pro/static/js/runtime~main.0996d46e.js",
+    "runtime~main.js.map": "/mycv-pro/static/js/runtime~main.0996d46e.js.map",
+    "static/css/2.3758f9f2.chunk.css": "/mycv-pro/static/css/2.3758f9f2.chunk.css",
+    "static/js/2.0206e306.chunk.js": "/mycv-pro/static/js/2.0206e306.chunk.js",
+    "static/js/2.0206e306.chunk.js.map": "/mycv-pro/static/js/2.0206e306.chunk.js.map",
+    "index.html": "/mycv-pro/index.html",
+    "precache-manifest.7cb4d76535f09abfd060162421399f16.js": "/mycv-pro/precache-manifest.7cb4d76535f09abfd060162421399f16.js",
+    "service-worker.js": "/mycv-pro/service-worker.js",
+    "static/css/2.3758f9f2.chunk.css.map": "/mycv-pro/static/css/2.3758f9f2.chunk.css.map",
+    "static/css/main.1bcb5c0e.chunk.css.map": "/mycv-pro/static/css/main.1bcb5c0e.chunk.css.map"
+  }
+}
